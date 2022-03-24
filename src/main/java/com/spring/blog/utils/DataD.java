@@ -16,7 +16,7 @@ public class DataD {
         @Autowired
         BlogRepository blogRepository;
 
-
+        // post esta comentado pois toda vez que rodar ele add mais informação no banco
         //@PostConstruct
         public void savePosts(){
 
